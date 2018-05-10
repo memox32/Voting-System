@@ -1,0 +1,74 @@
+                    _   _      _         _____       __      
+                   | | | |    | |       |_   _|     / _|     
+                   | |_| | ___| |_ __     | | _ __ | |_ ___  
+                   |  _  |/ _ \ | '_ \    | || '_ \|  _/ _ \ 
+                   | | | |  __/ | |_) |  _| || | | | || (_) |
+                   \_| |_/\___|_| .__/   \___/_| |_|_| \___/ 
+                                | |                          
+                                |_|                          
+	
+***************************************************************************************
+***************************************************************************************
+                                 Staff
+***************************************************************************************
+***************************************************************************************
+
+
+The following information will help staff to use the system.
+
+When you want to vote you need to be sure that the voting period is still open, 
+otherwise contact a system administrator for further information. 
+If the voting period is finished you will see a message that confirm this.
+
+If a staff enters an invalid staff id or password 3 times the sistem will
+go back to the main screen, if this problem persist please contact a system
+administrator. If you forgot your password this can be retrieved from the administrator
+
+After a successful log in staff will be able to see candidate list, if a staff
+vote for a candidate that is not in the list the system will reject the output
+and will ask for a valid candidate code.
+
+After staff confirm the candidate a date of the vote will be registed, also
+staff is just allowed to vote once, if a staff tries to vote when a vote is already placed 
+the system will show an error message.
+
+If you place a vote by mistake you can contact a system administrator and talk about a 
+solution.
+
+
+***************************************************************************************
+***************************************************************************************
+                            Administrator
+***************************************************************************************
+***************************************************************************************
+
+The following information will help administrators to use the system.
+
+If you can not log in check with another system administrator to find if due to an system error
+or you are introducing a wrong username or password
+
+After a successful log in administrators will have access to the following options:
+
+-View and add a the voting date period.
+(Introduce the date with the format yyyy-mm-dd)
+-View, add and delete staff information to/from file
+-View staff that have voted and haven't voted
+-View, add and delete candidate information to/from file
+-View, add and delete admin information to/from file
+-View voting statistics
+
+After adding something to a new file the system might need to restart before you can see
+the changes reflected.
+
+The normal voting period is 7 days but this can be extended or reduced if the situation requiere this.
+
+Validation methods for inputs have been including to prevent unexpected results but please follow the instructions carefully.
+
+The system is very user friendly and have detailed instructions of how to use any option but if you need further 
+assistance contact the IT team leader.  
+
+If you have recommendations to improve it please don't hesitate to share them with the team.
+
+If you find any bug, wrong or in-expected results please report it to the IT team leader.
+
+
